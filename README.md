@@ -19,6 +19,13 @@ On Linux/MacOS:
 
 - `python3 manage.py runserver`
 
+If you're going to use this app as a scaffold for your future application, be sure to rotate the `SECRET_KEY` defined in `./gantt_rest_python/settings.py`.
+
+Related docs:
+- https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/#critical-settings
+- https://docs.djangoproject.com/en/4.0/ref/settings/#std-setting-SECRET_KEY
+
+
 ### Related resources
 
 - Complete tutorial: https://docs.dhtmlx.com/gantt/desktop__howtostart_python.html
