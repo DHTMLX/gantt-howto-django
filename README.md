@@ -11,6 +11,12 @@ Implementing backend for [DHTMLX Gantt](https://dhtmlx.com/docs/products/dhtmlxG
 
 ### Run
 
+On Windows:
+
+- `python manage.py runserver`
+
+On Linux/MacOS:
+
 - `python3 manage.py runserver`
 
 ### Related resources
